@@ -1,0 +1,36 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #007acc;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #1e90ff;
+  color: white;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  font-size: 14px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f9ff;
+}
+
+tr:hover {
+  background-color: #e6f2ff;
+}
