@@ -34,3 +34,6 @@ tr:nth-child(even) {
 tr:hover {
   background-color: #e6f2ff;
 }
+body{
+  background-color:palegoldenrod;
+}
